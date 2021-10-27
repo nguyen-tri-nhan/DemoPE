@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><garden>
+    <flower id="f1" isAvailabe="true">
+        <name>Flower 1</name>
+        <description>Des Flower 1</description>
+        <quantity>10</quantity>
+        <price>12</price>
+        <season name="spring"/>
+    </flower>
+    <flower id="f2" isAvailabe="false">
+        <name>Flower 2</name>
+        <description>Des Flower 2</description>
+        <quantity>10</quantity>
+        <price>12</price>
+        <season name="summer"/>
+    </flower>
+    <flower id="f3" isAvailabe="true">
+        <name>Flower 3</name>
+        <description>Des Flower 3</description>
+        <quantity>10</quantity>
+        <price>12</price>
+        <season name="autumn"/>
+    </flower>
+<flower id="f4" isAvailable="true"><name>flower 4 </name><description>new flower 4</description><quantity>4</quantity><price>6</price><season name="spring"/></flower><flower id="f5" isAvailable="true"><name>flower 5</name><description>flower 5</description><quantity>12</quantity><price>15</price><season name="autumn"/></flower></garden>
